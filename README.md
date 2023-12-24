@@ -37,10 +37,11 @@ This repository contains implementations of algorithms in python.
 
 ### Searching Algorithms [`search.py`] (`/tests/test_search.py`)
 
-| Algorithm      | Time-Complexity | Space-Complexity |
-| :------------- | :-------------- | :--------------- |
-| Linear Search  | O(n)            | O(1)             |
-| Binary Search  | O(log n)        | O(1)             |
+| Algorithm          | Time-Complexity | Space-Complexity |
+| :----------------- | :-------------- | :--------------- |
+| Linear Search      | O(n)            | O(1)             |
+| Binary Search      | O(log n)        | O(1)             |
+| Exponential Search | O(log n)        | O(1)             |
 
 ## 🧪 Testing
 

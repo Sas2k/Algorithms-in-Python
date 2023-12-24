@@ -38,3 +38,8 @@ def test_BinarySearch():
     for case in testCases:
         assert search.BinarySearch(case[0], case[1]) == case[2]
 
+def test_ExponentialSearch():
+    "Test for Exponential Search"
+
+    for case in testCases:
+        assert search.ExponentialSearch(case[0], case[1]) == case[2]
