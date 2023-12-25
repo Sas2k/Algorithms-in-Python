@@ -1,5 +1,5 @@
 class Search():
-    """Main Search Algorithms Class"""
+    """The Main Class containing the search algorithms"""
 
     def __init__(self):
         pass

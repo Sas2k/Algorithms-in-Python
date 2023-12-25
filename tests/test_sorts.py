@@ -4,9 +4,9 @@
 
 from random import shuffle
 
-from sorts import Sorts
+from .. import sorts
 
-sort = Sorts()
+sort = sorts.Sorts()
 
 testCases = [
     [x for x in range(0, 100)],

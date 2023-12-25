@@ -1,5 +1,5 @@
 class Sorts():
-    """Main Class which contains sorting algorithms"""
+    """The Main Class containing the sorting algorithms"""
 
     def __init__(self):
         pass

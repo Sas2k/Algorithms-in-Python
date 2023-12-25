@@ -3,10 +3,10 @@
 """
 
 from random import randint
-from search import Search
+from .. import search
 
 
-search = Search()
+search = search.Search()
 
 testCases = [
     [
